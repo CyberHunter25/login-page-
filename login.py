@@ -1,3 +1,4 @@
+#default login page spring login will username and password trigger the authentication process is /login.
 u='rushikesh'
 p='rushikesh'
 username = input("Please enter your username: ")
